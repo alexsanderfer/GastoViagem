@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Gasto de Viagens</string>
+    <string name="distance">Distância</string>
+    <string name="totalKm">Total de Quilômetros</string>
+    <string name="price">Preço</string>
+    <string name="pricePerLitre">Preço por litro</string>
+    <string name="autonomy">Autonomia</string>
+    <string name="kms_per_litre">KMs por Litro</string>
+    <string name="total">Seu Gasto Total será de</string>
+    <string name="total_value">R$ 0</string>
+    <string name="calculate">Calcular</string>
+</resources>
