@@ -1,3 +1,9 @@
+<!--
+  ~ Copyright (c) 2023. Created by Alexsander at 11/2. All rights reserved.
+  ~ GitHub: https://github.com/alexsanderfer/
+  ~ Portfolio: https://alexsanderfer.netlify.app/
+  -->
+
 <resources>
     <string name="app_name">Gasto de Viagens</string>
     <string name="distance">Distância</string>
@@ -9,4 +15,6 @@
     <string name="total">Seu Gasto Total será de</string>
     <string name="total_value">R$ 0</string>
     <string name="calculate">Calcular</string>
+    <string name="r">R$ %1$s</string>
+    <string name="validation_fill_all_fields">Você deve preencher todos os campos</string>
 </resources>
